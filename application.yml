@@ -1,0 +1,22 @@
+external-user:
+  username: admin
+external-user:
+  password: admin
+
+#mail-service
+q.mail-queue: q.mail-queue
+#notification-service
+queue.notification: q.notification-queue
+
+
+#DB_CONFIG
+ACCESS-MANAGEMENT:
+  db:
+    url: jdbc:postgresql://localhost:5432/company-management
+    user: postgres
+    password: root
+COMPANY-MANAGEMENT:
+  db:
+    url: jdbc:postgresql://localhost:5432/company-management
+    user: postgres
+    password: root
