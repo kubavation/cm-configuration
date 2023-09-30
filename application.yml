@@ -22,7 +22,7 @@ COMPANY-MANAGEMENT:
     password: root
 
 #APP_CONFIG
-app_config:
+app-config:
   ACCESS-MANAGEMENT:
     url: http://localhost:4200
   REPORTS-SERVICE:
