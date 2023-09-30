@@ -20,3 +20,10 @@ COMPANY-MANAGEMENT:
     url: jdbc:postgresql://localhost:5432/company-management
     user: postgres
     password: root
+
+#APP_CONFIG
+app_config:
+  ACCESS-MANAGEMENT:
+    url: http://localhost:4200
+  REPORT-SERVICE:
+    url: http://localhost:4200
