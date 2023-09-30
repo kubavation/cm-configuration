@@ -25,5 +25,5 @@ COMPANY-MANAGEMENT:
 app_config:
   ACCESS-MANAGEMENT:
     url: http://localhost:4200
-  REPORT-SERVICE:
+  REPORTS-SERVICE:
     url: http://localhost:4200
